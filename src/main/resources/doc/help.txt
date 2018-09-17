@@ -1,0 +1,3 @@
+Help-->Edit Custom Properties-->new
+
+add idea.no.launcher=true
